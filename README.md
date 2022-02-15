@@ -1,0 +1,1 @@
+# automated-image-anchor-alignment
